@@ -12,4 +12,5 @@ public class day2Demo {
 	/**
 	This is coming form remote 
 	*/
+	String firstName = "John";
 }
